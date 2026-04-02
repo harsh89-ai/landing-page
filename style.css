@@ -77,3 +77,40 @@ a {
     height: 250px;
     border-radius: 12px;
 }
+
+.container-2 {
+    background-color: rgb(231, 216, 243);
+    padding-bottom: 60px;
+}
+
+.heading {
+    text-align: center;
+    padding: 40px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.content {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(154, 60, 243);
+    border-radius: 12px;
+    align-self: center;
+}
+
+.text {
+}
+
+.info {
+    max-width: 220px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+}
+
+.subcon-2 {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
