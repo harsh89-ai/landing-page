@@ -66,7 +66,7 @@ a {
     width: 170px;
     height: 40px;
     border-radius: 12px;
-    font-size: 15px;
+    font-size: large;
     background-color: rgb(184, 127, 241);
     color: white;
     border: 1px transparent;
@@ -142,3 +142,53 @@ a {
     font-size: large;
 }
 
+.container-4 {
+    background-color: rgb(231, 216, 243);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 0px;
+    padding-bottom: 80px;
+}
+
+.subcon-4 {
+    display: flex;
+    gap: 10px;
+    width:700px;
+    background-color: rgb(111, 30, 187);
+    color: white;
+    box-sizing: border-box;
+    padding: 40px 60px;
+    border-radius: 12px;
+}
+
+.end {
+    max-width: 420px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.last-bt {
+    display: flex;
+    align-self: center;
+}
+
+.bt-secondary {
+    background-color: rgb(111, 30, 187);
+    color: white;
+    border: 2px solid white;
+    border-radius: 12px;
+    width: 180px;
+    height: 42px;
+    font-size: large;
+}
+
+.h44 {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.t44 {
+    font-size: 18px;
+}
